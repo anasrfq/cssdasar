@@ -1,0 +1,3 @@
+body {
+	background: url(gambar/IPM.png) white no-repeat top right;
+}
